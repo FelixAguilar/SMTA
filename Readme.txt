@@ -11,7 +11,7 @@ y en el trabajo.
 
 SMTA: Contiene el instalador. (Ejecutar installer.sh)
 
-Esta hecho con google drive, este es el enlace al archivo con permisos de edición:
+Esta hecho con google drive, este es el enlace al archivo:
 
 https://docs.google.com/document/d/1yyd3r_UC-iGST41eFFAdm1Hz9vhUS7qp0I_mNfW9qPY/edit?usp=sharing
 
