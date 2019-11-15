@@ -1,0 +1,65 @@
+s1:Change the lenguage of the script:
+s2:Script configuration:
+s3:SMTA tool:
+s4:File manager with bin:
+s5:Spanish:
+s6:English:
+s7:Return:
+s8:Change the lenguage:
+s9:Change the order folder:
+s10:Change the bin folder:
+s11:Change the method to sort:
+s12:File manager:
+s13:Bin manager:
+s14:You have not entered any file:
+s15:Exit:
+s16:What do you want to do?[enter the number]:
+s17:The lenguage was succesfully changed:
+s18:The lenguage is already in use:
+s19:The option introduced was incorrect:
+s20:Order now:
+s21:Directory:
+s22:Ordenation method:
+s23:Check files ordered:
+s24:Delete missing files:
+s25:All missing files deleted from the database:
+s26:Look for the missing files in the input:
+s27:No missing files in the database:
+s28:Actual directory:
+s29:Change the directory:
+s30:Change the directory and move the files in it:
+s31:Path is required:
+s32:The directory is the same as before:
+s33:The directory already exists:
+s34:The directory could not be created:
+s35:The content of the directory was unable to be move:
+s36:The content have been move:
+s37:The directory change has been succesful:
+s38:Change the input directory:
+s39:Absolute path for the new directory:
+s40:Color legend:
+s41:Correct files:
+s42:Missing files:
+s43:Files inside the bin:
+s44:Organize files by extension:
+s45:Organize files by first character:
+s46:Organize files by last character:
+s47: The files have been grouped by extension.:
+s48:Enter the name of the file to be deleted:
+s49:Trash:
+s50:Delete file:
+s51:Retrieve file:
+s52:Enter the name of the file to recover:
+s53:No matches found:
+s54:To go back, press enter blank:
+s55:Are you sure you want to delete it? [y / n]:
+s56:Canceled file deletion:
+s57:File removed:
+s58:Are you sure you want to recover it? [y / n]:
+s59:Canceled the recovered file:
+s60:Recovered file:
+s61:Enter the name of the file to recover:
+s62:The file could not be moved.:
+s63: The files have been grouped by first character.:
+s64: The files have been grouped by last character.:
+s65: This type of grouping is already being used.:

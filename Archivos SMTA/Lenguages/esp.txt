@@ -1,0 +1,67 @@
+s1:Cambia el idioma del script:
+s2:Configuracion script:
+s3:Herramienta SMTA:
+s4:Gestor de archivos con papelera:
+s5:Castellano:
+s6:Ingles:
+s7:Volver atras:
+s8:Cambiar idioma:
+s9:Cambiar directorio de acción:
+s10:Cambiar directorio de reciclaje:
+s11:Cambiar metodo de ordenacion:
+s12:Gestionar archivos:
+s13:Gestionar la papelera:
+s14:No has introducido ningun archivo:
+s15:Salir:
+s16:Que accion quieres realizar?[introduce el numero]:
+s17:El idioma ha sido cabiado correctamente:
+s18:El idioma ya esta siendo utilizado:
+s19:La opción introducida es incorrecta:
+s20:Ordena ahora:
+s21:Directorio:
+s22:Metodo de ordenacion:
+s23:Revisar los archivos ordenados:
+s24:Eliminar los archivos extraviados:
+s25:Todos los archivos extraviados han sido eliminados:
+s26:Mirar por archivos extraviados en el directorio de entrada:
+s27:No hay archivos extraviados en la base de datos:
+s28:Directorio actual:
+s29:Cambia el directorio:
+s30:Cambia el directorio y mueve los ficheros:
+s31:La ruta de acceso es necesaria:
+s32:El directorio es el mismo que antes:
+s33:El directorio ya existe:
+s34:El directorio no ha podido ser creado:
+s35:El contenido del directorio no ha podido ser movido:
+s36:El contenido ha sido movido:
+s37:El directorio ha sido cambiado con exito:
+s38:Cambia el directorio de entrada:
+s39:Ruta absoluta para el nuevo directorio:
+s40:Leyenda de los colores:
+s41:Archivos correctos:
+s42:Archivos que no han sido localizados:
+s43:Archivos dentro de la papelera:
+s44:Organizar archivos por extension:
+s45:Organizar archivos por primer caracter:
+s46:Organizar archivos por ultimo caracter:
+s47:Los archivos han sido agrupados por extension.:
+s48:Introduce el nombre del archivo a borrar:
+s49:Papelera:
+s50:Eliminar archivo:
+s51:Recuperar archivo:
+s52:Introduce el nombre del archivo a recuperar:
+s53:No se han encontrado coincidencias.:
+s54:Para volver atras pulsa enter en blanco:
+s55:Estas seguro que lo quieres eliminar? [y/n]:
+s56:Cancelado el borrado de archivo:
+s57:Archivo eliminado:
+s58:Estas seguro que lo quieres recuperar? [y/n]:
+s59:Cancelado el recuperado de archivo:
+s60:Archivo recuperado:
+s61:Introduce el nombre del archivo a recuperar:
+s62:No se ha podido mover el archivo.:
+s63:Los archivos han sido agrupados por primer caracter.:
+s64:Los archivos han sido agrupados por ultimo caracter.:
+s65:Ya se esta utilizando este tipo de agrupacion.:
+s66:No se ha podido restaurar al directorio anterior.:
+s67:Deseas moverlo al directorio de entrada? [y/n]:

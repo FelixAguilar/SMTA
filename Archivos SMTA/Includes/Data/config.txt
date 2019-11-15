@@ -1,0 +1,6 @@
+installdir:/media/sf_Ubuntu/inta/:
+lenguage:esp:
+directory:/media/sf_Ubuntu/out/:
+new:/media/sf_Ubuntu/input/:
+trash:/media/sf_Ubuntu/trash/:
+orderby:lchar:
