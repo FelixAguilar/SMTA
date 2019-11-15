@@ -1,0 +1,62 @@
+s0:Instalador de la herramienta SMTA:
+s1:Instalacion para la herramienta SMTA.:
+s2:Idioma de la herramienta.:
+s3:Ingles.:
+s4:Castellano.:
+s5:Salir.:
+s6:Que lenguaje quieres usar.:
+s7:La opción introducida es incorrecta.:
+s8:Ruta de la instalacion.:
+s9:Volver.:
+s10:Introduce una ruta absoluta.:
+s11:El directorio no existe.:
+s12:Metodo de ordenación.:
+s13:Que tipo de ordenación quieres utilizar.:
+s14:Por extension.:
+s15:Por primera letra.:
+s16:Por ultima letra.:
+s17:Por fecha.:
+s18:Ruta para el directorio de entrada.:
+s19:Ruta para el directorio de salida.:
+s20:Ruta para la papelera.:
+s21:Revisa los parametros introducidos.:
+s22:Ejecuta la instalacion, [y/n].:
+s23:La instalalacion fue cancelada.:
+s24:El lenguaje sera utilizado en la instalacion y:
+s25:En los menus de la herramienta, esta se puede:
+s26:Cambiar en cualquier momento.:
+s27:Es correcto? [y/n].:
+s28:Entrada introducida.:
+s29:La ruta de instalación indica donde se instalara:
+s30:y donde estaran los archivos utilizados por la:
+s31:herramienta para poder funcionar.:
+s32:Determina como se realizaran las ordenaciones de:
+s33:los archivos con la herramienta.:
+s34:Esta herramienta esta diseñada para gestionar:
+s35:archivos y mantenerlos ordenados y cuando se: 
+s36:dejan de necesitar estos son eliminados por:
+s37:esta.:
+s38:Instalador/Desinstalador:
+s39:Este instalador permite la instalacion, y 
+s40:desisntalacion de los archivos requeridos para:
+s41:la funcionalidad de la herramienta.:
+
+s43:Que acción quiere realizar.:
+s44:Instalar:
+s45:Desinstalar:
+
+s47:Se utiliza para saber desde donde se introduciran:
+s48:los archivos para ordenar con la herramienta.:
+s49:Indica donde se ubicaran los ficheros eliminados:
+s50:por la herramienta.:
+s51:Indica donde se van a ordenar los archivos:
+s52:introducidos al sistema de la herramienta.:
+s53:La instalación esta en curso.:
+s54:La instalación se ha completado.:
+s55:La instalación no se ha podido realizar.:
+
+s56:Desistalacion de la herramienta SMTA.:
+s57:Introduce la ruta de la instalación.:
+s58:Se ha desinstalado la herramienta SMTA.:
+s59:No se ha podido desinstalar.:
+s60:No es el directorio de instalacion.:

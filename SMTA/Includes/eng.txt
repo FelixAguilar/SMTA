@@ -1,0 +1,63 @@
+s0:SMTA tool installer.:
+s1:Instalation for the tool SMTA.:
+s2:Lenguage for the instalation.:
+s3:English.:
+s4:Spanish.:
+s5:Exit.:
+s6:What lenguage do you want to use.:
+s7:The option introduced was incorrect.:
+s8:Path for the instalation.:
+s9:Return.:
+s10:Introduce an absolute path.:
+s11:The directory does not exists.:
+s12:Sort method.:
+s13:What order method do you want to use.:
+s14:By extension.:
+s15:By first letter.:
+s16:By pattern.:
+s17:By date.:
+s18:Path for the input directory.:
+s19:Path for the output directory.:
+s20:Path for the trash directory.:
+s21:Check parameters introduced.:
+s22:Execute installation, [y/n].:
+s23:The installation was canceled:
+s24:The lenguage will be used in the instalation:
+s25:And inside de menus of the tool, this ones:
+s26:Can be changed any time.:
+s27:Is correct? [y/n].:
+s28:Input introduced.:
+s29:The path for the instalation is used to know:
+s30:where will be the files used by the tool :
+s31:required to be able to work.:
+
+s32:This sets how will be sort the files with the:
+s33:tool.:
+s34:This tool is designed to manage the files and:
+s35:keep them sorted, when they are no longer:
+s36:needed these are move to the trash by the:
+s37:tool.:
+s38:Installer/Unistaller:
+s39:This installer permits the instalation and:
+s40:unistalation for the files required for the:
+s41:functionality of the tool.:
+
+s43:What action do you want to do.:
+s44:Install:
+s45:Unistall:
+
+s47:This is used to know from where will the files:
+s48:be introduced to be sorted by the tool.:
+s49:Indicates where will go the deleted files:
+s50:by the tool.:
+s51:Indicates where will be sorted the files:
+s52:introduced in the tool system.:
+s53:The instalation is on going.:
+s54:The instalation have been compleated.:
+s55:The instalation have not be able to finish.:
+
+s56:Unistalation for the tool.:
+s57:Introduce the path for the instalation.:
+s58:The tool SMTA have been unistalled.:
+s59:It have not be able to unistall.:
+s60:This is not the path for the instalation.:
